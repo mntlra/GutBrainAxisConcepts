@@ -1,4 +1,4 @@
-# Defining and Relating Concepts in Medical Terminology: A Case Study on the Gut-Brain Interplay (LREC 2026)
+# Defining and Relating Concepts in Medical Terminology: A Case Study on the Gut-Brain Interplay 
 
 License: [CC-by-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
  
